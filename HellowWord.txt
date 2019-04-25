@@ -1,1 +1,2 @@
-﻿Hlow word
+﻿Hellow word
+Git is a distributed version control system
